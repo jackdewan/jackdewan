@@ -2,7 +2,7 @@
 - 👀 I’m interested in building cool stuff
 - 🌱 I’m currently learning TypeScript
 - 💞️ I’m looking to collaborate on fun projects
-- 📫  How to reach me 
+- 📫  Say hello!
 
 <!---
 jackdewan/jackdewan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
